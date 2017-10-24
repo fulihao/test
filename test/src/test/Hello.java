@@ -20,9 +20,9 @@ public class Hello {
 		System.out.println("nio");
 		System.out.println("bbai");
 		System.out.println("seeou");
-		System.out.println("nio");
-		System.out.println("baii");
-		System.out.println("seeou");
+		System.out.println("nioasdf");
+		System.out.println("baiiadsf");
+		System.out.println("seeouasdf");
 	}
 
 }
