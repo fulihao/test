@@ -16,6 +16,13 @@ public class Hello {
 		System.out.println("nihao");
 		System.out.println("baibai");
 		System.out.println("see you");
+		System.out.println("see you");
+		System.out.println("nihao");
+		System.out.println("baibai");
+		System.out.println("see you");
+		System.out.println("nihao");
+		System.out.println("baibai");
+		System.out.println("see you");
 	}
 
 }
