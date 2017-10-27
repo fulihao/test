@@ -7,9 +7,9 @@ public class Hello {
 		System.out.println("nio");
 		System.out.println("baii");
 		System.out.println("baiiasf");
-		System.out.println("seusdf");
-		System.out.println("see you");
-		System.out.println("baiadsf");
+		System.out.println("seudf");
+		System.out.println("see ou");
+		System.out.println("baiads");
 	}
 
 }
