@@ -8,8 +8,8 @@ public class Hello {
 		System.out.println("baii");
 		System.out.println("baiiasf");
 		System.out.println("seusdf");
-		System.out.println("see you");
-		System.out.println("baiadsf");
+		System.out.println("haoareyou");
+		System.out.println("sehuiwoleige");
 	}
 
 }
